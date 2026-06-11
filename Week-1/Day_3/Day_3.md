@@ -9,7 +9,7 @@
 * Initialized Git repository
 * Connected project to Startappss GitHub account using SSH
 * Successfully pushed project to GitHub
-
+ 
 ## Learning
 
 * HTML Portfolio Development
