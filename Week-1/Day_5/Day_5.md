@@ -1,14 +1,23 @@
-## Completed
+Day 5 Summary
 
-* Created Day_5 project structure
-* Created Responsive Layout project
-* Added project documentation
-* Implemented responsive navigation bar
-* Implemented hero section
-* Implemented responsive card layout
-* Practiced Flexbox and Media Queries
-* Tested layout responsiveness on different screen sizes
+Projects Completed:
 
-## Project 
+1. Responsive Layout
+2. Responsive Landing Page
 
-Responsive Layout - Completed ✅
+Topics Practiced:
+
+* Flexbox
+* Media Queries
+* Responsive Design
+* Forms
+* Validation
+* Navigation Bars
+* Hero Sections
+* Cards Layout
+* Testimonials Section
+* Contact Forms
+* Footer Design
+
+Status:
+Day 5 Successfully Completed and Pushed to GitHub.
