@@ -17,6 +17,3 @@ Create a responsive webpage using HTML and CSS.
 
 completed
 
-## Author
-
-Satyam Kachhi
