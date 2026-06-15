@@ -35,4 +35,4 @@ Build a complete responsive landing page using HTML and CSS.
 
 ## Status
 
-Completed ✅
+Completed 
