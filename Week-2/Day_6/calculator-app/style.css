@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,sans-serif;
+}
+
+body{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:#f4f4f4;
+}
+
+.calculator{
+    background:white;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.2);
+
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+    width:300px;
+}
+
+input,
+select,
+button{
+    padding:10px;
+}
+
+button{
+    cursor:pointer;
+}
