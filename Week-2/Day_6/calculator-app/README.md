@@ -26,4 +26,4 @@ Build a calculator using JavaScript functions and DOM manipulation.
 
 ## Status
 
-Completed ✅
+Completed 
