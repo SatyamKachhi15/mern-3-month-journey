@@ -22,4 +22,4 @@ Build a counter application using JavaScript DOM Manipulation and Event Handling
 
 ## Status
 
-Completed ✅
+Completed 
