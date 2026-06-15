@@ -9,7 +9,6 @@ body{
     background-color: #f4f4f4;
 }
 
-/* Navigation */
 
 nav{
     background-color: #333;
@@ -32,7 +31,6 @@ nav a{
     text-decoration: none;
 }
 
-/* Hero Section */
 
 .hero{
     text-align: center;
@@ -45,7 +43,6 @@ nav a{
     margin-bottom: 10px;
 }
 
-/* Cards Section */
 
 .cards{
     display: flex;
@@ -63,7 +60,6 @@ nav a{
     text-align: center;
 }
 
-/* Media Query */
 
 @media(max-width:768px){
 
