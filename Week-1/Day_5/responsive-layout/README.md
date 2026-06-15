@@ -15,7 +15,7 @@ Create a responsive webpage using HTML and CSS.
 
 ## Status
 
-In Progress
+completed
 
 ## Author
 
