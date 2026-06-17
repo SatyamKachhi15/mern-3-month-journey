@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product List App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Product List App</h1>
+
+    <input
+        type="text"
+        id="searchInput"
+        placeholder="Search Product"
+    >
+
+    <div id="productContainer"></div>
+    <select id="categoryFilter">
+
+    <option value="All">
+        All Categories
+    </option>
+
+    <option value="Electronics">
+        Electronics
+    </option>
+
+    <option value="Fashion">
+        Fashion
+    </option>
+
+    <option value="Education">
+        Education
+    </option>
+
+</select>
+<select id="sortPrice">
+    <option value="default">Sort By Price</option>
+    <option value="lowToHigh">Low to High</option>
+    <option value="highToLow">High to Low</option>
+</select>
+<button id="gridView">
+    Grid View
+</button>
+
+<button id="listView">
+    List View
+</button>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
