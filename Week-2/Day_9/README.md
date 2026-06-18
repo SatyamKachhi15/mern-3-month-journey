@@ -29,3 +29,4 @@ Completed
 ### Deployment
 
 To be deployed on Vercel.
+https://mern-3-month-journey-two.vercel.app/
