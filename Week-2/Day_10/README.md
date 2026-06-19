@@ -20,7 +20,7 @@
 
 ### Status
 
- Quiz App Completed
- GitHub Push Completed
-Deployed on  Vercel Deployment
+ Quiz App Completed,
+ GitHub Push Completed,
+Deployed on  Vercel Deployment,
 https://quizzapppp.vercel.app/
