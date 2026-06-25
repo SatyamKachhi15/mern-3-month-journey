@@ -1,16 +1,31 @@
-# React + Vite
+## Weather App using React and OpenWeather API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Project Overview
+Built a Weather Application using React and the OpenWeather API to fetch and display real-time weather information.
 
-Currently, two official plugins are available:
+### Features
+- Search weather by city name
+- Real-time API integration
+- Temperature display
+- Humidity display
+- Wind speed display
+- Weather condition icons
+- Loading indicator
+- Error handling for invalid cities
+- Responsive user interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Concepts Practiced
+- useEffect Hook
+- Dependency Arrays
+- API Calls using fetch()
+- Async/Await
+- Loading States
+- Error Handling
+- Conditional Rendering
+- Controlled Inputs
+- Form Handling
+- State Management with useState
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Status
+Week 3 Day 14 Completed
+https://vercel.com/satyamkachhi/mern-3-month-journey-nemo
