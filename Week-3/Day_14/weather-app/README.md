@@ -28,4 +28,4 @@ Built a Weather Application using React and the OpenWeather API to fetch and dis
 
 ### Status
 Week 3 Day 14 Completed
-https://vercel.com/satyamkachhi/mern-3-month-journey-nemo
+https://mern-3-month-journey-nemo.vercel.app/
