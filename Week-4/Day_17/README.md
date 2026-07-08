@@ -1,0 +1,1 @@
+Today i have prepared for the interview.
